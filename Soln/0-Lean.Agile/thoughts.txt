@@ -190,7 +190,12 @@ Sprint Backlog
     Each item in a product Backlog is broken down into tasks.
     Item A - Task 1 Task 2 Task3
 
+Daily Scrum
+    Discussions of progress on each day's tasks and any general
+    feedbacks needed to make progress in completing the set task.
 
+Sprint Review
+    Gaining feedbacks from developed product at the end of a sprint.
 
 Helpful Links:
 https://www.youtube.com/watch?v=0KBbNrnPNco
@@ -277,11 +282,41 @@ Breaking Silos
 =============================================
 - KANBAN
 
-It uses Product Backlog
+The main idea involves focusing on continous work flow
+    and continous delivery.
+
+Tasks are completed in a process called flow.
+Number of work items a team can take on is defined by WIP(Work in Progress Limit)
+
+Little to zero planning, everything is being done as the need for 
+    it arises. Just in time delivery
+
+Most of the management is done by the Agile Coach
+
+Teams are never given more work than it can handle.
+
+It uses Product Backlog and pull systems like Scrum
+The pull system is more dynamic compared to Scrum, items
+    fill a column as soon as it is being moved to another
+    column or removed after completion.
+
+Structures are not clearly defined but this gives room
+    for communication amongst team members.
+    Task to be completed is clearly defined.
+
+It's best used for mature teams as flow and communication 
+    easily occurs in these teams.
+
+Less meetings
+
+It involves visualisation
+It uses Kanban boards and creates a flow 
 
 Every completed task is replaced immediately
 and waiting time is eliminated
 
+
+Link: https://www.youtube.com/watch?v=8TzeyKl3Pv8
 ============================================
 - Crystal
 
