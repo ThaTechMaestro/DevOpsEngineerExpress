@@ -255,6 +255,10 @@ It is best suited for areas that requires less planning but
 ============================================
 - Lean
 
+The main idea is to develop a product containing the essential
+features needed and doing so with the least amount of resources
+needed. Also taking feedbacks from customer on each product developed
+
 Maximise customer value while minimizing waste
 
 Maximise value using the minimum resources needed
