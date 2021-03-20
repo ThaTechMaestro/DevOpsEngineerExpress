@@ -95,6 +95,8 @@ Basically an easier way to adapt to changes by building
 
 
 How to implement agile?
+||||||||||||||||||||||||||||||||||||||
+
 =======================================
 - SCRUM
 
@@ -279,6 +281,8 @@ its own niche of customers in the market.
 
 Cross functionality
 Breaking Silos
+
+
 =============================================
 - KANBAN
 
@@ -317,14 +321,44 @@ and waiting time is eliminated
 
 
 Link: https://www.youtube.com/watch?v=8TzeyKl3Pv8
+
+
 ============================================
 - Crystal
 
-Philosophical
-Technical
-Software Development
+The main focus is on key features which determines the approach
+    to be used in developing a product and this is done in categories
+    referred to as color groups.
 
-(Occuring in parallel)
+It takes into account criticality, team size and priority of 
+    projects as major factors
 
-=============================================
-Feature Driven Development
+It is best suited for matured teams
+
+It uses color groups.
+
+Colors involve:
+
+Clear 
+    referred to as Crystal Clear
+    6 or less People
+    Small projects, Fixed price 
+    Requires moderate amount of documentation,
+    Focuses on Project Safety
+
+Yellow
+    referred to as Crystal Yellow
+    7 - 20 People
+    Small - Medium Projects 
+    Clear ownership
+    Automated Testing
+    Feedback collected from the customer
+
+Orange
+    referred to as Crystal Orange
+    20 - 40 people
+    1-2years time frame
+    Release every 3-4 months
+
+There are other colors and the properties goes on like that.
+
