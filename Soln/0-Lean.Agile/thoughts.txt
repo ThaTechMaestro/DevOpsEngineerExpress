@@ -255,6 +255,19 @@ It is best suited for areas that requires less planning but
 ============================================
 - Lean
 
+Maximise customer value while minimizing waste
+
+Maximise value using the minimum resources needed
+
+It is referred to as the MVP strategy.
+MVP: Minimum Viable Product
+It involves a process where a team develops and releases 
+the bare-minim version of their product(usually contains essential features)
+to the market, take feedbacks from the users (likes and dislikes).
+Then iterates based on the gathered feedbacks from the users.
+Each iteration is making the product more valuable and carve out
+its own niche of customers in the market.
+
 Cross functionality
 Breaking Silos
 =============================================
