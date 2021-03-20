@@ -1,20 +1,27 @@
 Homework [0-Lean.Agile]
 ========================
 
-1. Make a list with all agile methods exluding XP and Scrum and explain with 2-3 text lines how they work.
-2. Make a text with 3-5 lines explaining the issues with "Agile" - explain why.
-3. Whats the relation of Agile / Lean and Bi-Modal and DevOps?
+Q1. Make a list with all agile methods exluding XP and Scrum and explain with 2-3 text lines how they work.
+Q2. Make a text with 3-5 lines explaining the issues with "Agile" - explain why.
+Q3. Whats the relation of Agile / Lean and Bi-Modal and DevOps?
 
 
 ==================================================
 Q1
 
 - Lean
-
+    It involves developing a product containing the essential features needed and doing so with the least amount of resources needed. 
+    Also taking feedbacks from customer on each iterative product developed and implementing the required changes. 
+    Referred to as the Minimum Viable Product(MVP) strategy
 
 - Kanban
+    The main idea involves focusing on continous work flow and continous delivery,
+    with little structure in place giving room for flexibility amongst team members.
+    
 
 - Crystal
+    Emphasis on key features which determines the approach to be used in developing a product and this is done in categories referred to as color groups. 
+    Each color group comes with its own approach towards development of a product
 
 ====================================================
 Q2
