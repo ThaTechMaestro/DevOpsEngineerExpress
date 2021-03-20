@@ -4,46 +4,58 @@ It was created to solve a particular problem, know the problem
 then understanding Agile becomes easier
 
 Agile came as an improvement on Waterfall
+
 Waterfall is a sequential Software development model
+
 Waterfall has the following phases
 - Requirements Gathering
 - Software Design
 - Implementation
-- Verfication
+- Verfication/Testing
 - Deployment
 - Maintenance
 
-Waterfall was best suited for projects that are small in size
-The Requirements for these projects can be determined upfront
-Waterfal -> Monolith projects
-Monliths were great for requirements that do not frequently change
+Waterfall was best suited for projects that are small in size.
 
+The Requirements for these projects can be determined upfront.
+
+Waterfall -> Monolith projects
+
+Monliths were great for requirements that do not frequently change.
+
+
+------------------------------------
 Problems with Waterfall & Monolith
-As the year progressed into the early 2000s
+------------------------------------
+As the year progressed into the early 2000s.
+
 The requirements made by clients kept changing frequently
 
 Being a Monolith we deploy only one thing
+
 We test thoroughly
+
 Ask for a downtime
+
 Then push changes into production and incase
     where there are breakages we fix during the downtime
     This is great if we had to make changes once a Month 
 
     Clients started requesting changes a lot, at which deploying
     these changes were not possible since it might cause multiple
-    downtime in production an affect lots of businesses
+    downtime in production which will affect lots of businesses
 
     THe core question is?
     How can we push changes requested by clients frequently
     into production without causing any to little downtime
     As time progresses requirements were constantly changing 
-    and required very fast implementation else you'll lose out
+    and required very fast implementation else clients are lost
 
-    People started brainstorming on better Software
+    People started brainstorming on better approaches towards solving these issues
 
     Problem 1
-    Methodologies to meet the current needs of the clients(constantly changing requirements) without affecting
-    how the software is written in the first place.
+    Methodologies to meet the current needs of the clients(constantly changing requirements)
+    without affecting how the software is written in the first place.
 
     Problem2
     Time taken to push changes into production and ensure 
@@ -51,12 +63,13 @@ Then push changes into production and incase
 
 
 This brought Agile
-It is a philosophy to rapiddly deploy applications in a much more
+It is a philosophy to rapidly deploy applications in a much more
 organised way
-You want to make sure you can easily deploy changes to your codebase
+
+You want to make sure you can easily deploy requested changes from your codebase
 to production with less downtime and in a structured way
 
-Why can't Waterfall work in today's world
+Why Waterfall would not work in today's world
 Because the software will not meet up to the desired requirements of
 the clients in time before a new sets of Requirements are given.
 
@@ -65,20 +78,34 @@ customers or clients as software becomes more reliable, clients
 become very impatient even at the slightest error.
 
 
-What is Agile
-Value delivered in small increments
+What is Agile ?
+
+Value delivered in small increments.
+
 It's easy to make changes since we go one service at a time
+
 Things are done in short cycles
+
 Implement a set of features, do a demo to your clients
 - collect feedbacks, work with that and make 
     necessary changes on the next cycle.
+
 Basically an easier way to adapt to changes by building 
-    application in sprints a couple of features at a time.
+    application in sprints which involves implementing a couple of features at a time.
 
 
 How to implement agile?
 =======================================
-SCRUM
+- SCRUM
+
+The Main goal is at every point everyone in the team knows
+    What to work on
+    The future prospect of the product
+    The timeline of the product
+    Where they are currently at in a product timeline
+    Learning from each sprints to make the product better
+
+
 You have a
 - Product owner
 - Scrum Master
@@ -101,9 +128,9 @@ Example:
 Building E-commerece
 
 User stories
-Payment Processing
-Front End
-Email features
+- Payment Processing
+- Front End
+- Email features
 
 Prioritised and development of timeline
 1. Front End (5weeks)
@@ -132,9 +159,96 @@ Breaking the project down into smaller set of tasks
 
     Compared to Waterfal where you had to wait for longer duration
     of time to get feedbacks.
+    
+
+Product Backlog
+    It contains every set of requirements generated from
+    the users or clients which is needed to develop a product
+    Product owners are responsible for the Product Backlog
+    It is dynamic and changes over time.
+    Higher priority requirements are kept at the top of the list
+
+    It contains everything needed which will aid in the completion
+    of a project.
+    It contains user stories (Functional and Non-functional requirements)
+
+Teams work in iterations or sprints for a period of 2weeks to 1month
+Teams do not allow changes during the sprint.
+    Once a team has decided which set of backlog
+    to work on
+Product owner chooses priority of product backlog items
+    but scrum team decides the order of execution on the
+    sprint backlog
+Focus is on the team
+
+Sprint Planning meeting
+    Deciding what goes into a Product backlog and how long it
+    should take to get it done
+
+Sprint Backlog
+    A set of product backlog items selected for a particular sprint
+    Each item in a product Backlog is broken down into tasks.
+    Item A - Task 1 Task 2 Task3
+
+
+
+Helpful Links:
+https://www.youtube.com/watch?v=0KBbNrnPNco
+https://www.youtube.com/watch?v=M28QszW0vO8
+
 
 ============================================
 - eXtreme Programming(XP)
+
+The main goal of Extreme Programming is to provide 
+    the customer the final product within the shortest time. 
+    Also making sure the best coding practices are followed.
+    You are providing customers with best quality code
+    needed for a product within a short time.
+
+In pair programming:
+    Two Software Engineers can work on implementing a task
+        with one of them having more experience than the other
+    Also it can also involve refactoring an implemented 
+        task where the more experienced Software Engineers
+        go through the process with less experienced ones.
+
+Main idea is to develop quality code regarding a feature 
+    for a product in a short amount of time.
+
+Taking Software engineering practices to extreme level
+    meaning placing more focus on them.
+
+"It is a lightweight methodology for small to medium
+sized teams developing software in the face of vague or
+rapidly changing requirements"
+- Kent Beck
+
+It consists of 
+Simple Design
+Pair Programming
+COnstant Testing
+Ongoing Integration
+Refactoring
+Coding Standard
+Small Releases
+
+Elements of XP
+Programming in pairs or doing extensive code Review
+Unit testing of all code
+Avoid programming of features until they are actuall needed
+Frequent communication with the customers and also amongst developers
+
+
+Teams work in iterations for a period of 1 to 2weeks
+Team can change feature has long has it has not been added
+Feature prioritization is done by customer and team executes 
+    in that order
+Focus is on engineering practices such as 
+    test driven development, pair programming
+It is best suited for areas that requires less planning but
+    you want to quickly develop a protototype as soon
+    as possible then get feedbacks from your clients/customers
 
 
 
@@ -145,6 +259,8 @@ Cross functionality
 Breaking Silos
 =============================================
 - KANBAN
+
+It uses Product Backlog
 
 Every completed task is replaced immediately
 and waiting time is eliminated
@@ -158,3 +274,5 @@ Software Development
 
 (Occuring in parallel)
 
+=============================================
+Feature Driven Development
