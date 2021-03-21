@@ -23,14 +23,16 @@ Q1
     Emphasis on key features which determines the approach to be used in developing a product and this is done in categories referred to as color groups. 
     Each color group comes with its own approach towards development of a product
 
+
 ====================================================
 Q2
-
-
-
-
-
+- The focus is more on product management(people involved in the creation of a product) that the quality of software and system used in building the product.
+- Lack of proper documentation and instability in production environment
+- The silos across different teams such as Development team handing over to the QA which hands over the the Operations team after the completion of work items.
 
 
 ====================================================
 Q3
+- Ability to adapt to changes and improve effciency
+- Collaboration, clear communication and Stability
+- Instant feedbacks and constant improvements

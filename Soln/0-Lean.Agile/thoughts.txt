@@ -1,4 +1,5 @@
 Goal: Understand Everything about Agile and explain in Simple terms
+===================================================================
 
 It was created to solve a particular problem, know the problem 
 then understanding Agile becomes easier
@@ -362,3 +363,19 @@ Orange
 
 There are other colors and the properties goes on like that.
 
+
+
+=========================================================================
+ISSUES WITH AGILE
+
+Agile focus on culture and is agnostic to which tools are used
+
+DevOps starts with a focus on culture and drive towards the use of tools.
+
+SRE is how engineering organizations automate, entrusting highly scaled 
+    operations to people with a software engineeing mindset.
+    It starts with tooling and drives towards culture.
+
+DevOps deal with automation of workflow,
+    rapid delivery of high quality software that meets all user requirements
+    while maintaining the integrity and stability of the entire system
